@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-  <td width="50%"><img alt="gif" align="right" src="./asset/img/programmer.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src="./asset/img/programmer.gif" loop='infinite'/></td>
   <td width="50%"><img alt="gif" align="left" src="./asset/img/coding.gif"/></td>
 </tr>
 <table>
