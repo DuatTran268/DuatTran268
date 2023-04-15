@@ -12,7 +12,7 @@
 <tr>
   <td width="50%"><img alt="gif" align="right" src="./asset/img/programmer.gif" loop='infinite'/></td>
   <td width="50%"><img alt="gif" align="left" src="./asset/img/coding.gif"/></td>
-  <td width="50%"><img alt="gif" align="left" src="[./asset/img/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmix-mixi-mixigaming-mixigaminh-refund-gif-15381701&psig=AOvVaw2tuzSnqY8eUcY7sljwUw3U&ust=1681638554526000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjM3PjNq_4CFQAAAAAdAAAAABAX)"/></td>
+  <td width="50%"><img alt="gif" align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmix-mixi-mixigaming-mixigaminh-refund-gif-15381701&psig=AOvVaw2tuzSnqY8eUcY7sljwUw3U&ust=1681638554526000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjM3PjNq_4CFQAAAAAdAAAAABAX"/></td>
   
 </tr>
 <table>
